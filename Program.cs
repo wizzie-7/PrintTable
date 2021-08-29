@@ -25,7 +25,7 @@ namespace PrintTable
             {
                 
                 res = num * i;
-                
+                Console.WriteLine(num + " X " + i + " = " + res);
             }
             
         }
